@@ -1,0 +1,15 @@
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\bin\Debug\net10.0\StringUtilityLibrary.exe
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\bin\Debug\net10.0\StringUtilityLibrary.deps.json
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\bin\Debug\net10.0\StringUtilityLibrary.runtimeconfig.json
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\bin\Debug\net10.0\StringUtilityLibrary.dll
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\bin\Debug\net10.0\StringUtilityLibrary.pdb
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\obj\Debug\net10.0\StringUtilityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\obj\Debug\net10.0\StringUtilityLibrary.AssemblyInfoInputs.cache
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\obj\Debug\net10.0\StringUtilityLibrary.AssemblyInfo.cs
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\obj\Debug\net10.0\StringUtilityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\obj\Debug\net10.0\StringUtilityLibrary.sourcelink.json
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\obj\Debug\net10.0\StringUtilityLibrary.dll
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\obj\Debug\net10.0\refint\StringUtilityLibrary.dll
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\obj\Debug\net10.0\StringUtilityLibrary.pdb
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\obj\Debug\net10.0\StringUtilityLibrary.genruntimeconfig.cache
+C:\Users\pavan.aruva\OneDrive - Acuvate Software Private Limited\C#&.Net\StringUtilityLibrary\obj\Debug\net10.0\ref\StringUtilityLibrary.dll
